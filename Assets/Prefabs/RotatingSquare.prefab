@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 9000848142018895259}
   - component: {fileID: 7850689163716869544}
+  - component: {fileID: 7058090039080026125}
+  - component: {fileID: 3150099533882617646}
   - component: {fileID: 3096600013735492623}
   m_Layer: 0
   m_Name: RotatingSquare
@@ -85,6 +87,30 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &7058090039080026125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2347294578788122797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82bb5cf126be0ee4395fe70268ec7768, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3150099533882617646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2347294578788122797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bfaa0e4e96bce4c8c8079e4d08f841, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &3096600013735492623
 MonoBehaviour:
   m_ObjectHideFlags: 0
