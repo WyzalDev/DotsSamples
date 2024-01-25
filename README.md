@@ -8,7 +8,7 @@ Branch for next feature in the project. Can be unstable.
 * ### **"example" branch**
 This branch exists for learn and experimenting with Unity.
 
-"Commits" to the current one in this branch is representing practice 
+Commits to the current one in this branch is representing practice 
 and training on the Unity DOTS stack, specifically :<br/> 
 * ECS (Entities + Entities Graphics)
   * Entity, Component, System
