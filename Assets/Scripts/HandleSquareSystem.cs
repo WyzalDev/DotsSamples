@@ -1,8 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using Unity.Entities;
-using Unity.Transforms;
-using UnityEngine;
 
 public partial struct HandleSquareSystem : ISystem {
     public void OnCreate(ref SystemState state) {

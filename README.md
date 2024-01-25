@@ -15,5 +15,9 @@ and training on the Unity DOTS stack, specifically :<br/>
   * Baking Entities
   * Tag Components
   * Aspects
+  * Enitity prefabs
+  * EntityManager + EntityCommandBuffer
+  * EnableableComponent
+  * Mixing GameObject(Monobehaviour) with Entities (Hybrid DOTS)
 * Burst Compiler
 * JobSystem
