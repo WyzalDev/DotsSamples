@@ -3,7 +3,7 @@
 * ### **"master" branch**
 Branch for all project releases - represents
 last stable build ready version of project.
-* ### **"f_(feature_name)" like branch**
+* ### **"feature/(feature_name)" like branch**
 Branch for next feature in the project. Can be unstable.
 * ### **"example" branch**
 This branch exists for learn and experimenting with Unity.
